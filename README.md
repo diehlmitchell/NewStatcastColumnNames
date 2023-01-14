@@ -5,6 +5,9 @@ Use this by importing it:
 
 ```
 from StatcastSearchColumns import PitchingStatColumn
+
+(in order to use the events column)
+PitchingStats.events is "events" 
 ```
 
 Documentation for original columns: 
