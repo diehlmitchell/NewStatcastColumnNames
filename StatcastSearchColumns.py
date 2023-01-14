@@ -58,7 +58,7 @@ class PitchingStats(str, Enum):
     release_spin = 'release_spin'
     release_extension = 'release_extension'
     game_pk = 'game_pk'
-    fielder_1 = 'pitcher'
+    fielder_1 = pitcher
     fielder_2 = 'fielder_2'
     fielder_3 = 'fielder_3'
     fielder_4 = 'fielder_4'
