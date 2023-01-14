@@ -210,14 +210,13 @@ class PitchingStats(str, Enum):
 # Vertical movement in feet from the catcher's perpsective.
 # pitch_movement_z = 'pfx_z' 
 
-# i would change these variables if i had an idea what to change them to
-    # plate_x
-    # Horizontal position of the ball when it crosses home plate from the catcher's perspective.
-    # plate_x = 'plate_x' 
+# plate_x
+# Horizontal position of the ball when it crosses home plate from the catcher's perspective.
+# plate_x = 'plate_x' 
 
-    # plate_z
-    # Vertical position of the ball when it crosses home plate from the catcher's perspective.
-    # plate_z = 'plate_z' 
+# plate_z
+# Vertical position of the ball when it crosses home plate from the catcher's perspective.
+# plate_z = 'plate_z' 
 
 # on_3b
 # Pre-pitch MLB Player Id of Runner on 3B.
