@@ -7,7 +7,7 @@ Use this by copying the file and importing it:
 from StatcastSearchColumns import PitchingStats
 
 #(in order to use the events column)
-PitchingStats.events # is "events" 
+PitchingStats.events # is"events" 
 ```
 
 Documentation for original columns: 
