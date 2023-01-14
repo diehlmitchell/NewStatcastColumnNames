@@ -4,7 +4,7 @@ Here is what I would do if I had been in charge of making the column names for t
 Use this by copying the file and importing it: 
 
 ```
-from StatcastSearchColumns import PitchingStatColumn
+from StatcastSearchColumns import PitchingStats
 
 #(in order to use the events column)
 PitchingStats.events # is "events" 
