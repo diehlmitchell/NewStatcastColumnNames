@@ -11,7 +11,7 @@ class PitchingStats(str, Enum):
     pitcher = 'pitcher'
     events = 'events'
     pitch_description = 'description'
-    spin_dir = 'spin_dir' # deprecated column 
+    spin_dir_deprecated = 'spin_dir' # deprecated column 
     spin_rate_deprecated = 'spin_rate_deprecated' # deprecated column - Replaced by release_spin
     break_angle_deprecated = 'break_angle_deprecated' # deprecated column 
     break_length_deprecated = 'break_length_deprecated' # deprecated column 
